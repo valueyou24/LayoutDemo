@@ -1,0 +1,27 @@
+# ninja log v6
+13	339	7965565682424653	LayoutDemo_autogen/timestamp	8aa08daefbb0008c
+13	339	7965565682424653	LayoutDemo_autogen/mocs_compilation.cpp	8aa08daefbb0008c
+13	339	7965565682424653	D:/Git/QT_Projects/LayoutDemo/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/LayoutDemo_autogen/timestamp	8aa08daefbb0008c
+13	339	7965565682424653	D:/Git/QT_Projects/LayoutDemo/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/LayoutDemo_autogen/mocs_compilation.cpp	8aa08daefbb0008c
+343	1551	7965565682999645	CMakeFiles/LayoutDemo.dir/LayoutDemo_autogen/mocs_compilation.cpp.obj	a36bcbc263ce7a4c
+347	1567	7965565683039653	CMakeFiles/LayoutDemo.dir/main.cpp.obj	dc3f6623145d1dad
+350	1589	7965565683079657	CMakeFiles/LayoutDemo.dir/mywidget.cpp.obj	11fb4c715188421c
+1590	1921	7965565695469660	LayoutDemo.exe	6d77152969848620
+31	243	7965587566770942	LayoutDemo_autogen/timestamp	8aa08daefbb0008c
+31	243	7965587566770942	LayoutDemo_autogen/mocs_compilation.cpp	8aa08daefbb0008c
+31	243	7965587566770942	D:/Git/QT_Projects/LayoutDemo/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/LayoutDemo_autogen/timestamp	8aa08daefbb0008c
+31	243	7965587566770942	D:/Git/QT_Projects/LayoutDemo/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/LayoutDemo_autogen/mocs_compilation.cpp	8aa08daefbb0008c
+243	2150	7965587568885954	CMakeFiles/LayoutDemo.dir/mywidget.cpp.obj	11fb4c715188421c
+2151	2444	7965587587962459	LayoutDemo.exe	6d77152969848620
+30	232	7965588884875159	LayoutDemo_autogen/timestamp	8aa08daefbb0008c
+30	232	7965588884875159	LayoutDemo_autogen/mocs_compilation.cpp	8aa08daefbb0008c
+30	232	7965588884875159	D:/Git/QT_Projects/LayoutDemo/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/LayoutDemo_autogen/timestamp	8aa08daefbb0008c
+30	232	7965588884875159	D:/Git/QT_Projects/LayoutDemo/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/LayoutDemo_autogen/mocs_compilation.cpp	8aa08daefbb0008c
+233	2063	7965588886900160	CMakeFiles/LayoutDemo.dir/mywidget.cpp.obj	11fb4c715188421c
+2063	2262	7965588905204289	LayoutDemo.exe	6d77152969848620
+30	233	7965591046083263	LayoutDemo_autogen/timestamp	8aa08daefbb0008c
+30	233	7965591046083263	LayoutDemo_autogen/mocs_compilation.cpp	8aa08daefbb0008c
+30	233	7965591046083263	D:/Git/QT_Projects/LayoutDemo/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/LayoutDemo_autogen/timestamp	8aa08daefbb0008c
+30	233	7965591046083263	D:/Git/QT_Projects/LayoutDemo/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/LayoutDemo_autogen/mocs_compilation.cpp	8aa08daefbb0008c
+234	1996	7965591048123248	CMakeFiles/LayoutDemo.dir/mywidget.cpp.obj	11fb4c715188421c
+1996	2194	7965591065747883	LayoutDemo.exe	6d77152969848620
