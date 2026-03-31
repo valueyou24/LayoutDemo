@@ -126,6 +126,10 @@ public:
 
         textEdit = new QTextEdit(groupBox);
         textEdit->setObjectName("textEdit");
+        textEdit->setStyleSheet(QString::fromUtf8("QTextEdit {\n"
+" color: #0080ce;\n"
+"}\n"
+""));
 
         verticalLayout->addWidget(textEdit);
 
