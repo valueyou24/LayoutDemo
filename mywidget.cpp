@@ -29,7 +29,7 @@ void MyWidget::resizeEvent(QResizeEvent *event)
 
 
     //按钮宽度
-    QString width = QString("按钮宽度: \t%1, %2, %3, %3")
+    QString width = QString("按钮宽度: \t%1, %2, %3, %4")
                         .arg(ui->btnAdd->width())
                         .arg(ui->btnDel->width())
                         .arg(ui->btnModify->width())
